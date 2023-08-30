@@ -1,0 +1,41 @@
+body
+{
+    background-color: rgb(30, 32, 43);
+}
+.bg-main-color
+{
+    background-color: rgba(30, 32, 43, 0.905);
+}
+.bg-sec-color
+{
+    background-color:#262936d1;
+}
+.app-container
+{
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+}
+.text-light-blue
+{
+    color:#009ad8;
+}
+.footer-icons
+{
+    width: 20px;
+    height: 20px;
+}
+.grey{
+    color: RGB(191, 193, 200);
+    line-height: 21px;
+}
+.next_condition_img{
+    width: 25px;
+    height: 25px;
+}
+input{
+    outline: none;
+    border: none;
+}
+.col-md-4:nth-child(2){
+    background-color: rgba(30, 32, 43, 0.905);
+}
